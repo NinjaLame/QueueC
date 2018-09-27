@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1537968223 source:c:\users\labdas\desktop\opsifop\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1537968223 
+
+1538052490 source:/media/riris/MULTIBOOT/opsifop/main.c
+	<stdio.h>
+	<stdlib.h>
+
